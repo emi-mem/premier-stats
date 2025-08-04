@@ -1,4 +1,4 @@
-# ⚽️ Premier Stats 🔥
+# ⚽️ Premier Stats 🔥 
 
 A **Java** application for managing detailed **Premier League football player** statistics on an analytics platform. 🚀
 
