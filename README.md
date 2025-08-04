@@ -60,7 +60,7 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
-# Build and run the app
+# Build and run the app 
 ```
 mvn clean install
 mvn spring-boot:run
